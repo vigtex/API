@@ -1,0 +1,48 @@
+#top
+{
+	width: 97%;
+	float: top;
+	padding: 20px;
+	margin: 20px;
+	background-color: lightblue;
+}
+
+#coluna
+{
+	width: 70%;
+	padding: 20px;
+	margin: 20px;
+	background-color: lightgray;
+}
+.tamanho_cor
+{
+	width: 400px;
+	height: 40px;
+}
+.tamanho_coluna
+{
+	width: 1000px;
+}
+
+
+
+table 
+{
+  font-family: sans-serif;
+  background:#fafafa ;
+  margin: 2px;
+  width: 100%;
+}
+
+td, th 
+{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+/*
+tr:nth-child(even),table.list thead>tr 
+{
+    background-color: #dddddd;
+}
+*/
